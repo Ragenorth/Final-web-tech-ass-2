@@ -1,0 +1,27 @@
+Name: Lu
+Email: bcs22020007@student.uts.edu.my
+Phone:+60_Malaysia
+Department:w
+Address:w
+Date of birth: 2024-03-06
+Gender:male
+Comment: w
+
+Name: hi
+Email: lujienchen@gmail.com
+Phone:+60_Malaysia
+Department:s
+Address:a
+Date of birth: 2024-03-14
+Gender:male
+Comment: a
+
+Name: s
+Email: lujienchen@gmail.com
+Phone:+60_Malaysia
+Department:s
+Address:s
+Date of birth: 2024-03-19
+Gender:female
+Comment: s
+
